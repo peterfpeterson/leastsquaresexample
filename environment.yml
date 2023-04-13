@@ -1,0 +1,10 @@
+name: lstsqrexample
+
+channels:
+  - conda-forge
+
+dependencies:
+  - numpy
+  - matplotlib
+  - pre-commit
+  - pytest
